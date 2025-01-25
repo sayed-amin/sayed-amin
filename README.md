@@ -14,7 +14,7 @@
 - 💡 Passionate about **Software Development, Full Stack, and DevOps**.
 - 🌱 Currently learning **Cloud Computing, High-Performance Computing, and Web3**.
 - 🤝 Open to **collaborations on open-source projects**.
-- 🎯 Goal: **FAANG Job, High-Paying Remote Work, and Technical Excellence**.
+- 🎯 Goal: **FAANG Job, Remote Work, and Technical Excellence**.
 
 
 ---
