@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Mohammed Amin Sayed! 🚀</h1>
+<h1 align="center">Hi, I'm Amin Sayed! 🚀</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | DevOps | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:100xdevsreports@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohammed-amin-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=react&logoColor=white"></a>
-  <a href="https://github.com/mohammed-amin-sayed"><img src="https://img.shields.io/github/followers/mohammed-amin-sayed?style=social"></a>
+  <a href="https://sayedamin.in"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=react&logoColor=white"></a>
+  <a href="https://github.com/sayed-amin"><img src="https://img.shields.io/github/followers/mohammed-amin-sayed?style=social"></a>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 📫 **Let's Connect**
 📧 Email: [100xdevsreports@gmail.com](mailto:100xdevsreports@gmail.com)  
 💼 LinkedIn: [mohammed-amin-sayed](https://www.linkedin.com/in/mohammed-amin-sayed/)  
-🌎 Portfolio: [sayedamin.in]([https://yourportfolio.com](https://sayedamin.in))  
+🌎 Portfolio: [sayedamin.in](https://sayedamin.in) 
 
 ---
 
